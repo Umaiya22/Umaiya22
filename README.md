@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=70" width="100%"/>
+</div>
+
+<div align="center">
   <a href="https://github.com/Umaiya22">
     <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" alt="Umaiya Akter's GitHub Profile Picture" style="border-radius:50%; width:150px; height:150px;">
   </a>
@@ -65,12 +69,3 @@ Here are the technologies and tools I work with:
 <p align="center">
   &copy; 2025 Umaiya Akter
 </p>
-
-  ---
-
-  ### 🔗 Connect with me
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/your-actual-profile)
-  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your-email@gmail.com)
-
-</div>
-
