@@ -2,7 +2,7 @@
 
   # Hello, I'm Umaiya Akter! 👋
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Creative%20Developer&fontSize=70&fontAlignY=35" width="100%"/>
+  <img src="https://i.ibb.co/0jWPf4G/harry-potter-style-banner.png" width="100%" />
 
   ### 👩‍💻 Developer | 🎨 Designer | 🚀 Tech Enthusiast
 
@@ -12,7 +12,7 @@
   </p>
 
   ---
-  
+
   ### 🛠️ My Tech Stack
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,php,html,mysql,figma,blender&perline=5" />
 
@@ -33,3 +33,4 @@
   [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your-email@gmail.com)
 
 </div>
+
