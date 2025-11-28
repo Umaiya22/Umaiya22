@@ -1,29 +1,35 @@
 <div align="center">
 
-  # Hello, I'm [Your Name]! 🚀
+  # Hello, I'm Umaiya Akter! 👋
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Creative%20Developer&fontSize=70&fontAlignY=35" width="100%"/>
 
-  ### 💻 Frontend Wizard | 🎨 UI/UX Enthusiast
+  ### 👩‍💻 Developer | 🎨 Designer | 🚀 Tech Enthusiast
 
   <p>
-    <em>"Code is like humor. When you have to explain it, it’s bad."</em>
+    I am a versatile developer with a passion for combining logic with creativity. 
+    From building robust backend systems in <strong>Java & Python</strong> to creating 3D assets in <strong>Blender</strong>.
   </p>
 
   ---
   
-  ### 🛠️ Languages and Tools
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,git,figma" />
+  ### 🛠️ My Tech Stack
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,php,html,mysql,figma,blender&perline=5" />
+
+  <br/>
 
   ---
 
-  ### 📊 My GitHub Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=radical" height="150" alt="languages graph" />
+  ### 📊 Umaiya's GitHub Stats
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Umaiya22&show_icons=true&theme=radical" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umaiya22&layout=compact&theme=radical" height="150" alt="languages graph" />
+  </p>
 
   ---
 
-  [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/yourhandle)
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/yourhandle)
+  ### 🔗 Connect with me
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/your-actual-profile)
+  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:your-email@gmail.com)
 
 </div>
