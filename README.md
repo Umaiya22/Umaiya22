@@ -1,24 +1,29 @@
-# Hi there, I'm [Your Name] 👋
+<div align="center">
 
-### 👨‍💻 Software Engineer | 🚀 Full Stack Developer
+  # Hello, I'm [Your Name]! 🚀
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=70" width="100%"/>
 
-I am a passionate developer focused on building scalable backend systems and clean user interfaces.
+  ### 💻 Frontend Wizard | 🎨 UI/UX Enthusiast
 
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **Rust and GraphQL**
-- 👯 I’m looking to collaborate on **Open Source React Projects**
-- 💬 Ask me about **Python, Django, and AWS**
-- 📫 How to reach me: **[your-email@example.com]**
+  <p>
+    <em>"Code is like humor. When you have to explain it, it’s bad."</em>
+  </p>
 
----
+  ---
+  
+  ### 🛠️ Languages and Tools
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,git,figma" />
 
-### 🛠️ Tech Stack
-**Languages:** Python, JavaScript, TypeScript, Go
-**Frameworks:** React, Django, Node.js
-**Tools:** Docker, Kubernetes, AWS, Git
+  ---
 
----
+  ### 📊 My GitHub Stats
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=radical" height="150" alt="languages graph" />
 
-### 🔗 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/your-profile)
-[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://your-portfolio.com)
+  ---
+
+  [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/yourhandle)
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/yourhandle)
+
+</div>
