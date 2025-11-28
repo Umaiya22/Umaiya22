@@ -14,20 +14,19 @@
 
 ## 🚀 About Me
 
-I am a versatile and passionate programmer and designer with a strong foundation in both front-end and back-end development, complemented by robust design skills. While I maintain a continuous learner's approach, I apply professional-level expertise to problem-solving and project execution.
-
-My focus is on creating **efficient, scalable code** and designing **intuitive, engaging user experiences**. I enjoy bringing ideas to life, from the initial concept and design in tools like Figma and Blender, all the way to a fully functional application.
+I am a versatile **Programmer and Designer** specializing in full-stack development and intuitive UI/UX. My expertise spans efficient back-end architecture using **Spring Boot** and comprehensive design skills in **Figma and Blender**. I focus on delivering professional, scalable, and visually appealing projects.
 
 ## 🛠️ My Toolkit
 
 Here are the technologies and tools I work with:
 
-### 💻 Programming Languages
+### 💻 Programming & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C Badge">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot Badge">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
