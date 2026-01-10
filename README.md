@@ -13,8 +13,7 @@
 ---
 
 ## 🚀 About Me
-
-I am a versatile **Programmer and Designer** specializing in full-stack development and intuitive UI/UX. My expertise spans efficient back-end architecture using **Spring Boot** and comprehensive design skills in **Figma and Blender**. I focus on delivering professional, scalable, and visually appealing projects.
+ I focus on delivering professional, scalable, and visually appealing projects.
 
 ## 🛠️ My Toolkit
 
